@@ -1,2 +1,3 @@
-# me413
-Repository for my solutions of the ME413 Homeworks
+# Finite Element Analysis Homework Solutions
+
+This repository contains my solutions for the Finite Element Analysis (FEA) homework assignments for the course ME413: Introduction to Finite Element Analysis at METU. Each assignment is organized into its own directory for clarity.
